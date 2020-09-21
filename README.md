@@ -1,6 +1,6 @@
 # breast_cancer_detectin_using_sklearn
 Using simple machine learning models included in sci-kit learn library to explore their potential in predicting breast cancer. 
-Dataset and idea references are decribed in the main module written in "breast_cancer_detection.ipynb" 
+Dataset and idea references are described in the main module written in "breast_cancer_detection.ipynb" 
 
 Models applied to this dataset include : 
 -Logistic Regression
